@@ -1,7 +1,7 @@
 # Site
 title:          I am Vignesh
 bio:            '1 Hungry Mind'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+description:    "Senior Software Engineer at Agira Technologies,Chenai"
 picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://shivenigma.github.io
@@ -23,28 +23,28 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email:
-twitter: username
-facebook: username
-#google:
-  #plus: #username
+email: ms.vignesh31@gmail.com
+twitter: ShivEnigma
+facebook: shiv.enigma
+google:
+  plus: +MSvignesh
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+github: shivenigma
+stackoverflow: 3098872/vignesh 
+linkedin: shivenigma
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+#instagram: username
+#lastfm: username
+#tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
-youtube: username
+#youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
@@ -57,7 +57,7 @@ youtube: username
 
 
 # Comments
-disqus_shortname: alperenbozkurt-net
+disqus_shortname: shivenigma
 
 
 # Gems

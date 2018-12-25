@@ -1,10 +1,10 @@
 # Site
-title:          I am Vignesh
+title:          'The V Word'
 bio:            '1 Hungry Mind'
-description:    "Senior Software Engineer at Agira Technologies,Chenai"
+description:    "Senior Software Engineer at Agira Technologies,Chennai"
 picture:        'assets/img/profile.png'
 locale:         en_US
-url:            https://shivenigma.github.io
+url:            https://vignesh.rocks
 
 
 # Jekyll

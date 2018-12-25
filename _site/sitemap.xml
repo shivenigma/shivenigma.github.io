@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/readability-post/</loc>
-<lastmod>2012-05-22T00:00:00+05:30</lastmod>
+<loc>http://localhost:4000/flutter-launcher-icon/</loc>
+<lastmod>2018-12-25T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/sample-post-images/</loc>
-<lastmod>2013-05-22T00:00:00+05:30</lastmod>
+<loc>http://localhost:4000/posts_sample/2012-05-22-readability-post/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/markdown-syntax/</loc>
-<lastmod>2016-03-15T00:00:00+05:30</lastmod>
+<loc>http://localhost:4000/posts_sample/2013-05-22-sample-post-images/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/JBlog-theme/</loc>
-<lastmod>2016-03-21T00:00:00+05:30</lastmod>
+<loc>http://localhost:4000/posts_sample/2017-06-14-JBlog-theme/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/posts_sample/2017-06-14-markdown-syntax/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/404</loc>

@@ -15,8 +15,13 @@ I hope few of us tried to use rxjs and tried push our limits but failed or gave 
  
  - It uses pure functions to produce values and relies on them to keep the state error free.
  
- - It treats any even or input as a stream which can flow through various observables, operators.
+ - It treats any event or input as a stream which can flow through various observables, operators.
  
  When I started with rxjs I had no clue on how or when to use those operators it has, because it was not very obvious without understanding the above two things. Nowadays I think I am doing fine and if you're on the same boat I would like to show you some practical use cases of where you can use one operator instead of doing something else.
  
+ ### <a target="_blank" href="https://rxjs-dev.firebaseapp.com/api/operators/map">Map operator </a>
  
+ Map mainly useful for transforming data. What it does is that every time your source observable fires, it takes the value and send it to the function you defined (should be pure function, please people) and then returns the result of that function as an observable.
+ 
+ ### <a target="_blank" href="https://rxjs-dev.firebaseapp.com/api/operators/filter">Filter operator </a>
+ Filter operator is similar to array filter, in fact all the operators are inspired by the Array functions in JS, so when your source observable emits a value, the filter takes the value and sends it to the predicate function you defined and if the function returns true it emits the observable.

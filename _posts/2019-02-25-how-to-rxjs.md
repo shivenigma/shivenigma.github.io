@@ -7,6 +7,9 @@ tags: [angular, rxjs, RxJs, javascript, Observable, operators, subscription, str
 ---
 I have to agree that the above title is pretty strong and kinda click-a-bait. But trust me, I was using the library wrong, I was not utilizing it to its full extent and was writing code which should be far more easier. I am nowhere claiming to be an expert in RxJs but I have done these mistakes in the past and still witnessing others doing the same, so I took a chance to look back and wrote what I should have been told a year or two ago about RxJs.
 
+<figure>
+	<img src="https://raw.githubusercontent.com/Reactive-Extensions/RxJS/master/logos/logo.png">
+</figure>
 To understand the problem behind this let's get to the background, if you're like me, you're probably forced into RxJs by Angular and you were just using it only to subscribe to http calls and not even bothered to look at its documentation.
 
 I hope few of us tried to use RxJs and tried push our limits but failed or gave up, why RxJs seems so hard at the beginning? Like everything, RxJs indeed has a learning curve to it but it isn't the reason. Its our approach towards programming, most of us working in either procedural or OOP style and RxJs requires little different approach towards how you handle events, input and output.

@@ -7,7 +7,11 @@
     {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% else %}<meta name="description" content="{{ site.description }}">{% endif %}
     <meta name="keywords" content="{{ page.tags | join: ', ' }}">
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    {% if page.layout=='post'%}
+    {% include post-open-graph.html %}
+    {% else %}
     {% include open-graph.html %}
+    {% endif %}
     {% if site.google.verify %}
     <!-- Webmaster Tools verfication -->
     <meta name="google-site-verification" content="{{ site.google.verify }}">{% endif %}

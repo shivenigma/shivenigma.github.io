@@ -25,7 +25,7 @@ The above code is pretty simple with few assignments and log statements, think o
 
 Most people will either miss the `undefined` or will fail to explain why it is `undefined`. If your answer is right and you know why this is happening, you probably can move on without reading further (But please read it anyway and give me your feedback).
 
-###Variable scopes
+### Variable scopes
 
 Two interesting things are happening here, the first one is how js resolves variable definitions when encountered a variable in the code. We defined a global variable name and then immediately put a `console.log` for it. After that, it encounters a function definition and then another `console.log` in the global scope. In both cases, the JS interpreter will look for a variable defined as `name` in the current scope which is the global scope in this case.
 

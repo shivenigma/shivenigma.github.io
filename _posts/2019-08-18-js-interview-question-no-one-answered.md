@@ -4,6 +4,8 @@ title: "A Javascript Interview question that no one answered"
 date: 2018-12-25
 excerpt: "Tricky javascript question that can be answered only if you know JS well enough."
 tags: [javascript, interview, js, scoping, hoisting]
+published: false
+featured: "/assets/img/posts/hoisting/unsplash-stress.jpg"
 ---
 <figure>
 	<img src="/assets/img/posts/hoisting/unsplash-stress.jpg">

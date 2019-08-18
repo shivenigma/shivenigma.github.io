@@ -4,12 +4,13 @@ title: "RxJs - You're probably doing it wrong"
 date: 2019-02-25
 excerpt: "How to take advantage of RxJs?"
 tags: [angular, rxjs, RxJs, javascript, Observable, operators, subscription, streams]
-featured: "assets/img/posts/how-to-rxjs/rxjs-logo.png"
+published: true
+featured: "/assets/img/posts/how-to-rxjs/rxjs-logo.png"
 ---
 I have to agree that the above title is pretty strong and kinda click-a-bait. But trust me, I was using the library wrong, I was not utilizing it to its full extent and was writing code which should be far more easier. I am nowhere claiming to be an expert in RxJs but I have done these mistakes in the past and still witnessing others doing the same, so I took a chance to look back and wrote what I should have been told a year or two ago about RxJs.
 
 <figure>
-	<img src="assets/img/posts/how-to-rxjs/rxjs-logo.png">
+	<img src="/assets/img/posts/how-to-rxjs/rxjs-logo.png">
 </figure>
 To understand the problem behind this let's get to the background, if you're like me, you're probably forced into RxJs by Angular and you were just using it only to subscribe to http calls and not even bothered to look at its documentation.
 

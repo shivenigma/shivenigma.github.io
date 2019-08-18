@@ -62,7 +62,7 @@
     <div class="ortalaAna">
       <div class="yazilar">
         {% for post in site.posts %}
-          {% if post.project == null %}
+          {% if post.project == null and post.published %}
             <div class="yazi">
               <div class="ustr">
                 <h2>

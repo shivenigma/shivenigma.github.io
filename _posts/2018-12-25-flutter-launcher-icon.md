@@ -2,7 +2,7 @@
 layout: post
 title: "Flutter - Creating Custom Launcher Icons"
 date: 2018-12-25
-excerpt: "How to change launcher icons in flutter?"
+excerpt: "I am sure most of us might have already heard about flutter and some of us are really excited and trying it out. In case if you're living under a rock, Flutter is a hybrid application development framework which is developed by Google"
 tags: [flutter, launcher icon, android, ios, hybrid-apps]
 published: true
 featured: "/assets/img/posts/flutter-assets/flutter-logo.png"

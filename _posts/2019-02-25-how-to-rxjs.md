@@ -2,7 +2,7 @@
 layout: post
 title: "RxJs - You're probably doing it wrong"
 date: 2019-02-25
-excerpt: "How to take advantage of RxJs?"
+excerpt: "why RxJs seems so hard at the beginning? Like everything, RxJs indeed has a learning curve to it but it isn't the reason. Its our approach towards programming, most of us working in either procedural or OOP style and RxJs requires little different approach towards how you handle events, input and output."
 tags: [angular, rxjs, RxJs, javascript, Observable, operators, subscription, streams]
 published: true
 featured: "/assets/img/posts/how-to-rxjs/rxjs-logo.png"

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A Javascript Interview question that no one answered"
-date: 2018-12-25
-excerpt: "Tricky javascript question that can be answered only if you know JS well enough."
+date: 2019-08-18
+excerpt: "Javascript is a beautiful language which comes bundled with some very different behavior, which can be tricky understand even for people who have been working in JS for years."
 tags: [javascript, interview, js, scoping, hoisting]
-published: false
+published: true
 featured: "/assets/img/posts/hoisting/unsplash-stress.jpg"
 ---
 <figure>

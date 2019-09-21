@@ -106,4 +106,4 @@ Evaluating a candidate should be an informed decision based on their overall per
 ### Conclusion
 These are the thoughts I collected in my experience so far, I understand if you disagree with some or all of them. My experience of interviews might be very different from yours. But there is one universal truth, your skills can take you only so much, your attitude and humility can get you to places that you never imagined. 
  
- Let me know your thoughts in the comments.
+ Let me know your thoughts in the comments section.

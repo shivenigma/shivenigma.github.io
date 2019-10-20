@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  {% include head-home.html %}
+  <body>
+  <nav class="border fixed split-nav">
+    <div class="nav-brand">
+      <h3><a href="#">{{ site.name }}</a></h3>
+    </div>
+    {% include nav-home2.html %}
+  </nav>
+  <div class="margin"></div>
+  <div class="row flex-center">
+    <div class="sm-4 col">
+      <div class="card">
+        <img alt="{{ site.title }}" src="{{ site.url }}/{{ site.picture }}">
+        <div class="card-body">
+          <h4 class="card-title">{{ site.name }}</h4>
+          <h5 class="card-subtitle">{{ site.description }}</h5>
+          <p class="card-text">Notice that the card width in this example have been set to 20rem, otherwise it will try to fill the current container/row where the card is.</p>
+          <button>Let me go here!</button>
+        </div>
+      </div>
+    </div>
+    <div class="sm-4 col">
+      <div class="card">
+        <img alt="{{ site.title }}" src="{{ site.url }}/{{ site.picture }}">
+        <div class="card-body">
+          <h4 class="card-title">{{ site.name }}</h4>
+          <h5 class="card-subtitle">{{ site.description }}</h5>
+          <p class="card-text">Notice that the card width in this example have been set to 20rem, otherwise it will try to fill the current container/row where the card is.</p>
+          <button>Let me go here!</button>
+        </div>
+      </div>
+    </div>
+    <div class="sm-4 col">
+      <div class="card">
+        <img alt="{{ site.title }}" src="{{ site.url }}/{{ site.picture }}">
+        <div class="card-body">
+          <h4 class="card-title">{{ site.name }}</h4>
+          <h5 class="card-subtitle">{{ site.description }}</h5>
+          <p class="card-text">Notice that the card width in this example have been set to 20rem, otherwise it will try to fill the current container/row where the card is.</p>
+          <button>Let me go here!</button>
+        </div>
+      </div>
+    </div>
+  </div>
+    <!--<div class="menuAc">
+      <i class="fa fa-bars" aria-hidden="true"></i>
+    </div>
+    <div class="menuMobil">
+      {% include nav-home.html %}
+    </div>
+    <div class="baslik">
+      {{ site.name }}
+    </div>
+    <div class="orta">
+      <div class="ortala">
+        <div class="resim">
+          <img alt="{{ site.title }}" src="{{ site.url }}/{{ site.picture }}">
+        </div>
+        <div class="pc">
+          {% include nav-home.html %}
+        </div>
+        <div class="aciklamalar">
+          {{ site.description }}
+        </div>
+      </div>
+    </div>
+    {% include social-links.html %}-->
+  </body>
+</html>

@@ -24,3 +24,5 @@ fields:
   type: boolean
   label: Published
   description: published or not
+pages:
+- _posts/mistakes-people-do-when-learning-a-new-programming-language.md

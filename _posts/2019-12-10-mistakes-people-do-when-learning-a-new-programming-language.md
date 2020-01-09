@@ -15,6 +15,6 @@ tags:
 - javascript
 - beginner
 featured: assets/img/:year-:month-:date-photo-1555861496-0666c8981751.webp
-published: false
+published: true
 
 ---

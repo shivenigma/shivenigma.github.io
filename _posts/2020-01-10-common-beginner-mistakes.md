@@ -139,11 +139,11 @@ There is a very thin line between comparing two technologies in a healthy way an
 ### 10) Not creating good developer habits
 This is something that is better built from day one, its hard to break free once you got used to doing things in certain way. The below are some important things that a developer should be mindful of so one should start thinking about these things right from your learning journey. Trust me, your future colleagues will love you for these good habits.
 
-1. Naming
+- #### Naming
 
     Whether you're naming a function, variable, class, always see to it that the names are shorter and meaningful. I would trade shortness over clear and meaningful names that easily express the intent of the variable.
 
-2. Architecture
+- #### Architecture
 
     This is not something you should start worrying about when learning, but whenever you code a project, you should be thinking about software architecture. 
 
@@ -153,7 +153,7 @@ This is something that is better built from day one, its hard to break free once
 
     Software architecture is basically about making the fundamental structural choices which are costlier to change once implemented.
 
-3. cleaning up after yourself
+- #### cleaning up after yourself
 
     Its like the boy scout's rule of software development,
 
@@ -161,7 +161,7 @@ This is something that is better built from day one, its hard to break free once
 
     If that is too hard to do, try atleast not to make more mess in it. Handle your memory properly, Remove unnecessary imports, functions, and Variables. Handle your subscriptions(rxjs) or unsubscribe properly, free up any memory you occupied. These are the things that need to be taken care of when you finish coding a feature.
 
-4. commit messages
+- #### commit messages
 
     Write good, meaningful commit message that is relevant to the change. It'll help your future self or the future maintainer of the code, this of course is not very easy, so you must start doing it properly from the beginning. Doesn't matter if you're the only one person committing to that repository or if it is just a pet project. 
 
@@ -169,13 +169,13 @@ This is something that is better built from day one, its hard to break free once
 
     My one tip is forgot git commit -m is an option, I always use git commit -v explicitly. If you're wondering what's the difference, -m allows only a single line message whereas the -v opens your default git editor and allow you to write really long multi line messages.
 
-5. Alignment
+- #### Alignment
 
     Aligning your code is a good habit that you should develop from day one, sure you can let your IDE do the heavy lifting for you or there are tools like [prettier](https://prettier.io/) but I would prefer to have that as a nature rather than depending on some external tools. Setup a tool like Prettier once you got proper aligning and spacing habits.
 
     Aligning is important because the code should be readable for anyone comes after you or to your future self. Nothing is worse than long lines of unaligned code. There is a lot more to readability than just alignment, this one can be a good starting point.
 
-6. Commenting
+- #### Commenting
 
     Good developers also should master the subtle art of commenting, why would one call it art? because you need to figure out the sweet spot between over commenting and not doing it. Not every line has to be commented on because your code should be mostly self-explanatory.
 

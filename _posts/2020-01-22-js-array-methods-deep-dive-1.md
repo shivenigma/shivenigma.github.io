@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "10 common mistakes when learning to code and how to fix them"
-date: 2020-01-10
+title: "A Deep Dive into Javascript Array Methods - 1"
+date: 2020-01-22
 excerpt: "Starting with programming can be both exciting and exhausting at the same time, its a demanding activity that needs a lot of focus and energy to do it correct and consistent.
 
 I am going to share 10 mistakes I think most beginners make and some advice on how to navigate away from those mistakes and accelerate your learning journey and career."

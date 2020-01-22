@@ -6,7 +6,7 @@ excerpt: "Starting with programming can be both exciting and exhausting at the s
 
 I am going to share 10 mistakes I think most beginners make and some advice on how to navigate away from those mistakes and accelerate your learning journey and career."
 tags: [beginner, javascript, array, advanced, looping, modifying]
-published: true
+published: false
 featured: "/assets/img/posts/beginner-mistakes/10.jpg"
 ---
 

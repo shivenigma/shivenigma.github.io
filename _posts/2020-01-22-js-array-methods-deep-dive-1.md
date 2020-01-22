@@ -7,7 +7,6 @@ excerpt: "Starting with programming can be both exciting and exhausting at the s
 I am going to share 10 mistakes I think most beginners make and some advice on how to navigate away from those mistakes and accelerate your learning journey and career."
 tags: [beginner, javascript, array, advanced, looping, modifying]
 published: true
-featured: "/assets/img/posts/beginner-mistakes/10.jpg"
 ---
 
 Javascript is great, it is single-threaded but fast enough for most use cases, it is easy to get started with but hard to master. 2019 has been great for Javascript and 2020 is not going to be any different. In this context, I am focusing more on writing beginner-friendly articles on Javascript this year.

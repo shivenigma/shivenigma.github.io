@@ -107,3 +107,5 @@ Map receives a function as the first argument and an optional index as the secon
 - Early termination out of map is not possible. If you need early termination, you're using map in the wrong place.
 - The callback must return value otherwise the result array will be array of undefined values.
 - If callback is an arrow function, thisArg can be ignored as arrow functions lexically bind to this value.
+
+These two are some of the frequent use cases I will come across in day to day work. I tried to write it simple as possible to my understanding and I hope you find this useful. If you think if something has to be added to the post feel free to let me know in the comments. Try to play with these two methods a little bit if you find them difficult or confusing. Remember, practice is what makes things stick in your memory not just reading.

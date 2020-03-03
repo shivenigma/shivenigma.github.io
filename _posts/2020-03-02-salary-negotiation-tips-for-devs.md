@@ -3,7 +3,7 @@ layout: post
 title: "Salary Negotiation Tips for Developers"
 date: 2020-03-02
 excerpt: "Negotiation is one of those skills that are important for any job. Whether you're negotiating for an offer in an interview or negotiating for a raise with your company, there are some simple things that you should follow to yield better results."
-tags: [develper, career, salary, interview, negotiate, money]
+tags: [developer, career, salary, interview, negotiate, money]
 featured: "/assets/img/posts/salary-negotiation/negotiation.jpg"
 published: true
 ---

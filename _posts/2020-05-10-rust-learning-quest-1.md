@@ -4,7 +4,7 @@ title: "Why I started learning Rust and impressions first week"
 date: 2020-05-10
 excerpt: "In Rust, variables are immutable by default, It doesn't have garbage collection and has first-class support for WebAssembly."
 tags: [rust, rustlang, webassembly, wasm, immutability]
-published: false
+published: true
 ---
 I decided to learn one new programming language every year since 2019. I don't plan to become an expert in a particular language. But it introduces a lot of new patterns and broadens our perspective. In 2019, my choice was Flutter. I was advocating about Flutter to our team and did a few side projects (which are never going to see the light of the day). Flutter was a great choice for both joys of learning and the potential of building something for my own.
 

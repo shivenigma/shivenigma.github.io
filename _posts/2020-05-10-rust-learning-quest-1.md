@@ -111,7 +111,7 @@ I loved how Rust made me think about the low-level stuff such as how much memory
 
 To calculate the limit of each type, the manual gave a formula that is really useful. I must admit, that any programmer with a CS degree or anyone having experience with other low-level languages might find this trivial but it is hard for me.
 
-> A variable can store -(2^n - 1) to (2^n - 1)-1 where n is the number of bits. This formula is for signed integers. So i8 can store -255 to 254.
+> A variable can store -(2^n - 1) to (2^n - 1)-1 where n is the number of bits. This formula is for signed integers. So i8 can store -128 to 127.
 
 The `isize` and `usize` are interesting types because their size will be determined based on the architecture of the system that the code will be running. For 32-bit systems they'll be 32 bit and 64 for the 64-bit machines.
 

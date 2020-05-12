@@ -173,7 +173,7 @@ fn main() {
 ```
 
 I also learned a bit about what is `ownership` and how Rust does its magic without garbage collecting. That's a huge topic and I should learn about `lifetime` in rust before writing about ownership. For now, just assume that your variables will be removed from memory once the code ran past their scope.
-> Update: I make a mistake in calculating the range of i8 which had 1 bit extra, I posted it without realizing and (https://www.reddit.com/user/steven4012/)[Steven] from Rust reddit community noticed and (https://www.reddit.com/r/rust/comments/gi4q3d/why_i_started_learning_rust_and_my_impressions/fqcq8sw?utm_source=share&utm_medium=web2x) [corrected it].
+> Update: I make a mistake in calculating the range of i8 which had 1 bit extra, I posted it without realizing and < a href="https://www.reddit.com/user/steven4012/" target="_blank">Steven</a> from Rust reddit community noticed and <a href="https://www.reddit.com/r/rust/comments/gi4q3d/why_i_started_learning_rust_and_my_impressions/fqcq8sw?utm_source=share&utm_medium=web2x" target="_blank">corrected it</a>
 
 ### Final words
 

@@ -2,7 +2,7 @@
 name:     'Vignesh M'
 title:          'The V Word'
 bio:            '1 Hungry Mind'
-description:    "Tech Lead | Fullstack Dev @ Agira Technologies,Chennai"
+description:    "Tech Lead | Fullstack Dev @ Agira Technologies, Chennai"
 picture:        'assets/img/profile-new.jpg'
 locale:         en_US
 url:            https://vignesh.pro
@@ -39,11 +39,11 @@ stackoverflow: 3098872/vignesh
 linkedin: shivenigma
 #xing: username
 #instagram: username
-#lastfm: username
+lastfm: vigneshms
 #tumblr: username
 #pinterest: username
 #foursquare: username
-#steam: username
+steam: shivenigma
 #dribbble: username
 #youtube: username
 #soundcloud: username

@@ -13,7 +13,7 @@ tags:
 ---
 Recently, I've seen people discuss on Twitter about whether a college degree is required to get into a tech job and if having one gives you any competitive advantage over the self-taught ones. I believe I can add a cent or two to that discussion. I am going to tell my story and experience so it might encourage others.
 
-![College degree](assets/img/year-month-date-vasily-koloda-8cqdvpuo_ki-unsplash.jpg)
+![College degree](/assets/img/year-month-date-vasily-koloda-8cqdvpuo_ki-unsplash.jpg)
 
 I am a self-taught developer working for around 7 years now. I don't have a computer science degree or not even a bachelor's degree for that matter. In my observation, a college degree is not mandatory to get a job in the tech industry but having one will be helpful in various situations.
 

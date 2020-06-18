@@ -54,7 +54,7 @@ You might feel intimidated by the things you don't know when compared with your 
  4. Accessibility
  5. Big-O-Notion (this should be part of #1 in my understanding)
  6. Memory management
- 7. One low level language such as C
+ 7. A low-level language such as C
  8. Software development life cycle
  9. Agile methodologies
 10. Different estimation techniques

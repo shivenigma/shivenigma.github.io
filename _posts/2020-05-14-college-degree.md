@@ -9,7 +9,7 @@ tags:
 - education
 - career
 - development
-
+published: true
 ---
 Recently, I've seen people discuss on Twitter about whether a college degree is required to get into a tech job and if having one gives you any competitive advantage over the self-taught ones. I believe I can add a cent or two to that discussion. I am going to tell my story and experience so it might encourage others.
 

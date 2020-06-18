@@ -4,7 +4,7 @@ title: "How necessary a college degree is to get a job in tech"
 date: 2020-06-14
 excerpt: "I am a self-taught developer working for around 7 years now. I don't have a computer science degree or not even a bachelor's degree for that matter"
 tags: [degree, education, career, development]
-published: false
+published: true
 ---
 # A college degree is mandatory to get a job in tech?
 

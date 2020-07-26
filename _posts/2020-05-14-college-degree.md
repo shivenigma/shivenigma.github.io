@@ -4,11 +4,7 @@ title: How important a college degree is to get a job in tech?
 date: 2020-06-14
 excerpt: I am a self-taught developer working for around 7 years now. I don't have
   a computer science degree or not even a bachelor's degree for that matter.
-tags:
-- degree
-- education
-- career
-- development
+tags: [degree, education, career, development]
 published: true
 ---
 Recently, I've seen people discuss on Twitter about whether a college degree is required to get into a tech job and if having one gives you any competitive advantage over the self-taught ones. I believe I can add a cent or two to that discussion. I am going to tell my story and experience so it might encourage others.

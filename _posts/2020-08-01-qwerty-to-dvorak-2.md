@@ -9,7 +9,7 @@ published: true
 
 I committed to converting myself into a [Dvorak typist in 2020](https://vignesh.pro/qwerty-to-dvorak/). After trying a gradual switch for 3 months, I went cold turkey this July. It was a painful and equally enjoyable experience. Writing code is major part of my job, so I can't use the standard Dvorak. The symbols are not easy to type the in standard for me. I went with the [programmer's Dvorak](https://www.kaufmann.no/roland/dvorak/). Hereafter I will mention it as just Dvorak.
 
-<video controls width="250">
+<video controls width="350" class="external-embeds" autoplay loop muted>
 
     <source src="/assets/img/posts/qwerty-to-dvorak-2/simply.webm"
             type="video/webm">

@@ -9,7 +9,8 @@ published: true
 
 I committed to converting myself into a [Dvorak typist in 2020](https://vignesh.pro/qwerty-to-dvorak/). After trying a gradual switch for 3 months, I went cold turkey this July. It was a painful and equally enjoyable experience. Writing code is major part of my job, so I can't use the standard Dvorak. The symbols are not easy to type the in standard for me. I went with the [programmer's Dvorak](https://www.kaufmann.no/roland/dvorak/). Hereafter I will mention it as just Dvorak.
 
-<video controls width="350" class="twitter-tweet" autoplay loop muted>
+<div style="text-align:center">
+<video width="350" class="twitter-tweet" autoplay loop muted>
 
     <source src="/assets/img/posts/qwerty-to-dvorak-2/simply.webm"
             type="video/webm">
@@ -19,6 +20,7 @@ I committed to converting myself into a [Dvorak typist in 2020](https://vignesh.
 
     Sorry, your browser doesn't support embedded videos.
 </video>
+</div>
 
 The obvious choice would be to buy a custom programmable keyboard. But they are really expensive and I don't easily act on the impulse to buy anything ([Learned it from Gandhi](https://viewthroughmywindow.com/the-minimalist-gandhi/)). I would like to test how far I can actually go without getting one of those. So in the attempt, I rearranged the keys on my [amazon basics keyboard](https://amzn.to/3jGzD02) to match the programmer's dvorak Layout. For touch typing you don't really need to do this, changing the OS level settings should do it. But this was one of the reason my gradual switch from qwerty failed. I wanted the correct key in place to help when I need a reference.
 

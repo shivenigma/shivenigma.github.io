@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My experience of swiching to Dvorak from Qwerty
+title: My experience of switching to Dvorak from Qwerty
 date: 2020-08-01
 excerpt:  If you ask me what's the most painful thing in switching to a new layout, my answer is shortcuts. I have configured a lot of shortcuts based on qwerty. After the change, it became really hard to use them. Even the universal shortcuts such as Cut/Copy/Paste won't be in the same place.
 tags: [typewriting, typing, dvorak, programmer's dvorak, qwerty, keyboard, rsi]

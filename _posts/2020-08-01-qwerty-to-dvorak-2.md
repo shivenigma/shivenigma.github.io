@@ -22,7 +22,7 @@ I committed to converting myself into a [Dvorak typist in 2020](https://vignesh.
 </video>
 </div>
 
-The obvious choice would be to buy a custom programmable keyboard. But they are really expensive and I don't easily act on the impulse to buy anything ([Learned it from Gandhi](https://viewthroughmywindow.com/the-minimalist-gandhi/)). I would like to test how far I can actually go without getting one of those. So in the attempt, I rearranged the keys on my [amazon basics keyboard](https://amzn.to/3jGzD02) to match the programmer's dvorak Layout. For touch typing you don't really need to do this, changing the OS level settings should do it. But this was one of the reason my gradual switch from qwerty failed. I wanted the correct key in place to help when I need a reference.
+The obvious choice would be to buy a custom programmable keyboard. But they are really expensive and I don't easily act on the impulse to buy anything ([Learned it from Gandhi](https://viewthroughmywindow.com/the-minimalist-gandhi/)). I would like to test how far I can actually go without getting one of those. So in the attempt, I rearranged the keys on my [amazon basics keyboard](https://amzn.to/3jGzD02) to match the programmer's dvorak Layout. For touch typing you don't really need to do this, changing the OS settings is enough. But this was one of the reason my gradual switch from qwerty failed. I want the correct key in place to look when I need a reference.
 
 To my bad luck, the F and J keycaps were a different design than the rest of the keys. So I had to leave those untouched in their qwerty place. As a result, H and U key caps ended up in different positions in my setup. Programmer's dvorak reorders the numbers keys differently. The symbols take the number's place, and the numbers typed using shift. The symbol + number key association is also different from qwerty. I reordered my number keys based on the cursed row (As normal Dvorak typists call the numbers in the programmer's dvorak). That change made typing symbols impossible with the altered keyboard. The symbols were all messed up in different places, and I ended up with something like this.
 
@@ -30,9 +30,9 @@ To my bad luck, the F and J keycaps were a different design than the rest of the
 	<img alt="dvorak keyboard picture" src="/assets/img/posts/qwerty-to-dvorak-2/keyboard.jpeg">
 </figure>
 
-In the attempt of changing the keycaps, I broke a few keys such as the `{` key. It was one of the most used keys for programmers. I managed to type without that for 2 weeks. I just copy/pasted that symbol wherever I wanted it. I thought I permanently damaged the keyboard and should by a new one. As a last resort, I opened it and saw that the membrane wal little off. I placed it in the right position and then all keys started working. It was a great relief, I am pretty sure breaking and fixing things by yourself can be as satisfying as the sound of a mech.
+In the attempt of changing the keycaps, I broke a few keys such as the `{` key. It is one of the most used keys for programmers and managed to type without that for 2 weeks. Just by copy/pasting that symbol wherever required. I thought permanently damaged the keyboard and should by a new one. As a last resort, opened it and saw that the membrane is little off. After putting that in the right position all keys started working. It was a great relief, I am pretty sure breaking and fixing things by yourself can be as satisfying as the sound of a mech.
 
-I fixed one part of the issue but still had the 4 keys off, and the symbols are in wrong place. It was annoying because I kept going for the wrong keys whenever looked at the keyboard. I decided to create a better reference than the keyboard. I printed and pasted the [layout](https://www.kaufmann.no/roland/dvorak/) on an amazon delivery box and put in on my desk. It is not pretty, but it got the job done. All problems solved, I changed my keyboard layout on Ubuntu and started using it full-time.
+I fixed part of the issues, but still had the 4 keys are off and the symbols are in wrong place. It was annoying and I kept going for the wrong keys whenever looked at the keyboard. To create a better reference than the keyboard, I printed, and pasted the [layout](https://www.kaufmann.no/roland/dvorak/) on an amazon delivery box, and put in on my desk. It is not pretty, but it get the job done. All problems solved, I changed my keyboard layout on Ubuntu and started using it full-time.
 
 <figure>
 	<img alt="Dvorak keyboard layout printed and pasted on a box" src="/assets/img/posts/qwerty-to-dvorak-2/reference.jpeg">
@@ -40,17 +40,17 @@ I fixed one part of the issue but still had the 4 keys off, and the symbols are 
 
 ### Week 1
 
-The first week can be the hardest period of retraining your muscle memory. I felt bit of a pain and weirdness on my wrists. When typing I was like a snail and made a lot of typos. Keys that changed to a nearby position are the big problems. For example, the letter S is changed to the right hand from the left hand, there is a little chance I would go for the old S. But for letters like H, it was really hard.
+The first week can be the hardest period of fighting your muscle memory, there was bit of a pain and weirdness on my wrists. I was typing like a snail and made a lot of typos. Keys that changed to a nearby position are the big problems. For example, the letter S is changed to the right hand from the left hand, there is a little chance I would go for the old S. But for letters like H, it was really hard.
 
-I noticed that if you made one typo following your qwerty muscle memory, your hands will follow for a few more letters. I sent gibberish to people in slack frequently because I used to hit enter fast. Many times, I came really close to switching to qwerty just to reply to a message or for some note taking. Switching back to the old layout does more harm than good. You're breaking your muscle memory for qwerty in the first few weeks. Going back to it is counter-intuitive.
+I noticed that if you made one typo following your qwerty muscle memory, your hands will follow for a few more letters. I sent gibberish to people in slack. Many times, I came close to switching back to qwerty just to reply to a message or for some notes. Switching back to the old layout does more harm than good. You're breaking your muscle memory for qwerty in the first few weeks. Going back to it is counter-intuitive.
 
-Out of all the issues I faced after the switch, shortcuts are the real problem. I am a keyboard user and used to not touching the mouse for a lot of things. This switch warranted to use mouse all the time. The shortcuts remapping is really hard. I'll discuss the shortcut issues and solutions later in the post.
+Out of all the issues I faced after the switch, shortcuts are the real problem. I am used to not touching the mouse for a lot of things. This switch forced me to use mouse all the time. Relearning them is really hard. I'll discuss the shortcut issues and solutions later in the post.
 
 ### Week 2
 
 I felt like it was getting worse everyday, I often went to qwerty layout unconsciously. I had to remember that I'm typing in a Dvorak. Closing eyes and visualizing the Dvorak layout was helpful, but it slowed me down. My speed was around 20 WPM but accuracy has gone to crap. One thing I learned in my typewriting course 13 years ago is, accuracy and finger position is more important than typing faster. It is hard to break the bad finger positions once you've formed the muscle memory with them.
 
-After a few days into week 2, I felt less friction from qwerty's muscle memory. I really missed being able to type faster without the typos. Over the weekend I finished an entire [blog post](https://errorsshouldneverpasssilently.com/5-mistakes-i-made-as-a-beginner-with-angular-js/) using dvorak. It was also my first guest blog post in a site other than my work blogs. I do really have less pain when typing when compared with qwerty. Fingers are moving much better in their natural movement rather than doing some tricky positions.
+After a few days into week 2, I felt less friction from qwerty's muscle memory. I really missed being able to type faster without the typos. Over the weekend I was able to typ. an entire [blog post](https://errorsshouldneverpasssilently.com/5-mistakes-i-made-as-a-beginner-with-angular-js/) using dvorak (It was also my first guest blog post). I do really have less pain when typing when compared with qwerty. Fingers are moving much better in their natural movement rather than doing some tricky positions.
 
 Over the end of the second week Dvorak started to feel natural. I still make mistakes but now I know that I made a typo without checking. I particularly have trouble with the upper rows and the numbers/symbols. The numbers placed in Programmer's dvorak in a different order. 9 and 0 starts in the middle, and to the left you can find the odd numbers. To the right you got even numbers. The numbers are mapped odd and even for left and right hands respectively. This might be an obvious thing for most, not for me. Now I don't get why people say this is a cursed row, it makes much sense than the numerical order to me. Typing numbers is easier since I understood this.
 
@@ -62,10 +62,27 @@ After the second week I stopped tracking the Dvorak progress. Somewhere in the t
 
 If you're reading this far, you are likely to test the waters. So let me share my metrics with qwerty and dvorak.
 
-| Layout | WPM (avg) | No. of tests taken |
-|--------|-----------|--------------------|
-| Qwerty |    70     |         10         |
-| Dvorak |    31     |         4          |
+<table style="text-align:center">
+  <thead>
+    <tr>
+      <th>Layout</th>
+      <th>WPM (avg)</th>
+      <th>No. of tests taken</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Qwerty</td>
+      <td>70</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Dvorak</td>
+      <td>31</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
 
 I tested myself using [https://play.typeracer.com](https://play.typeracer.com/), the metrics might seem counter-intuitive to you. After all, everyone switched to dvorak has done that for getting faster. But, My goal is to reduce the finger and wrist movement and in-turn reduce the risk of RSI and pain. I believe it is working for my goals. I was able to manage to work for 3 weeks without anyone noticing any slowness for 3 weeks. You don't really need to be that fast unless you're getting paid for the number of pages you can type.
 

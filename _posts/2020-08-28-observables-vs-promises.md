@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 4 differences between observables and Promises in Javascript
+title: The 4 differences between Observables and Promises in Javascript
 date: 2020-08-26
 excerpt: The difference between promises and observable is one is my favorite interview questions. This question won't reveal their technical competence but might show some assumptions they have about JS and tools. So what are the differences?
 tags: [javascript, observable, rxjs, promises, async, await]

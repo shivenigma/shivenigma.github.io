@@ -6,6 +6,7 @@ excerpt: The difference between promises and observable is one is my favorite in
 tags: [javascript, observable, rxjs, promises, async, await]
 published: true
 ---
+
 Javascript is a single-threaded language and it is blocking by nature. Still, we can do things asynchronously without blocking further code execution. Speaking of async, there are multiple ways to run async operations. I mostly use Observables and Promises. There is async/await, but it is just syntactic sugar over promises.
 
 The difference between promises and observable is one is my favorite interview questions. This question won't reveal their technical competence but might show some assumptions they have about JS and tools. So what are the differences?

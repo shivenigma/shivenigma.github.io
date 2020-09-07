@@ -6,6 +6,7 @@ excerpt:
 tags: [angular, change-detection, cli, onpush, schematics]
 published: true
 ---
+
 Most angular components I create are generated using the angular CLI. Every time I had to set the change detection to onPush after the component has been created. I know there is an option to set it as the default, but I was lazy to search and set it up.
 
 Last week I was developing the overall architecture for a new module. I was generating a lot of skeleton components. It was frustrating to set onPush manually for every new component. I searched  how to set the onPush as the default strategy for new components.
